@@ -1,0 +1,41 @@
+Richiesta:
+- implementare un layout assegnato come esercitazione pomeridiana.
+
+Apro slack
+    - controllo il nome del repo
+    - leggo la consegna dell'esercitazione 
+    - scarico il file con le immagini
+
+Apro google chrome
+    - vado su github
+        * entro nella zona new report
+        * creo il nuovo repo 
+    - Chiudo google chrome
+
+Apro VS Code 
+    - seleziono source control
+        * seleziono clone repository
+        * seleziono clone from github
+        * inserisco il nome del repo 
+    - seleziono la cartella dove salvare il repo
+    - salvo la cartella repo
+
+Seleziono explorer
+    - creo un nuovo file index.html
+    - creo una cartella css
+        * nella cartella creo un file style.css
+    -creo una cartella immagini
+        * copio il file delle immagini scaricato in precedenza 
+    
+Analizzo gli screenshots che mi hanno messo a disposizione
+    - divido la pagina web in macrosezioni
+        * controllo la centratura di ogni sezione
+    - adesso sono pronto ad iniziare a scrivere il file html
+    
+Apro il file html da VS Code
+    - scrivo HTML 5 e uso l'autocompletamento
+    - inizio a scrivere nella parte dell' head
+        * inserisco il link per il file css
+        * inserisco il link per bootstrap
+    - mi sposto nella parte del body
+        * creo la macrostruttura che ho individuato precedentemente (header, main, footer, ecc. ecc.)
