@@ -50,4 +50,33 @@ Torno sul file HTML
         * creo un container 
         * creo una row 
         * creo delle colonne
-    - inserisco gli elementi di cui ho bisogno per fare il layout ()
+    - inserisco gli elementi di cui ho bisogno per fare il layout (immagini, titoli, paragrafi ecc. ecc.)
+    - inserisco le classi bootstrap
+        * le classi relative alla disposizione delle colonne in modo responsive
+        * le classi relativei ai bordi
+        * le classi relative ai colori
+
+Mi sposto sul file css  
+    - inserisco tutte le classi alla quale devo dare un valore per personalizzare la mia pagina
+
+    - SE ne ho bisogno inserisco il link per il google font
+        * vado su google
+        * apro il sito di google fonts
+        * cerco il font di cui ho bisogno
+        * seleziono la tipologia di font-weight di cui ho bisogno
+        * copio il link e lo inserisco sul file css
+    - sul file css scrivo il selettore body
+    - tra le parentesi del selettore body inserisco l'attributo e il valore che mi mette a disposizione google font
+
+SE tutto funziona vado avanti alla prossima sezione 
+
+SE qualcosa non funziona cerco si risolverla da solo
+    - cerco nella documentazione online ed utilizzo l'inspector del browser
+
+SE non riesco a risolvere il problema da solo
+    - apro slack
+    - seleziono hotwell
+    - descrivo il problema e mando un ticket agli eroi che sono dall'altro lato dello schermo 
+    - aspetto e intanto spero nell'illuminazione 
+
+SE arriva l'illuminazione risolvo il problema da solo (Effetto paperella)
