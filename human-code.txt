@@ -31,11 +31,23 @@ Analizzo gli screenshots che mi hanno messo a disposizione
     - divido la pagina web in macrosezioni
         * controllo la centratura di ogni sezione
     - adesso sono pronto ad iniziare a scrivere il file html
-    
+
 Apro il file html da VS Code
     - scrivo HTML 5 e uso l'autocompletamento
     - inizio a scrivere nella parte dell' head
-        * inserisco il link per il file css
+        * inserisco il link per il file css111
         * inserisco il link per bootstrap
     - mi sposto nella parte del body
         * creo la macrostruttura che ho individuato precedentemente (header, main, footer, ecc. ecc.)
+
+Apro lo screenshot 
+    - inizio analizzando sezione per sezione
+    - analizzo la disposizione degli elementi del layout per creare la mia griglia
+    - adesso so che posso utilizzare bootstrap
+
+Torno sul file HTML 
+    - inizio a scrivere nella sezione che ho analizzato
+        * creo un container 
+        * creo una row 
+        * creo delle colonne
+    - inserisco gli elementi di cui ho bisogno per fare il layout ()
